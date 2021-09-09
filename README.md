@@ -1,2 +1,2 @@
 # JavaScript-Executor
-Scrollup, ScrollDown, ScrollAtTheBottom, HandlingFrames
+Scrollup, ScrollDown, ScrollAtTheBottom
